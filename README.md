@@ -8,3 +8,11 @@ gio to se add de tao conflict, dau tien la o branch
 va bay gio la o master
 
 cho edit chut xiu di
+
+edit
+edit
+edit
+edit
+edit
+edit
+edit
