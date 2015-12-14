@@ -24,6 +24,3 @@ edit parallel 2
 edit parallel 2
 edit parallel 2
 edit parallel 2
-
-
-heheheheheh
